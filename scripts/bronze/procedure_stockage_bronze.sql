@@ -2,6 +2,11 @@
 ==========================================================================================================
 Procedure de stockage des données externe dans les tables existantes dans le shcema bronze
 ==========================================================================================================
+cette procedure est nommé bronze.load_bronze
+pour l'executé:
+syntaxe:
+	EXEC bronzze.load_bronze
+==========================================================================================================
 */
 
 CREATE OR ALTER PROCEDURE bronze.load_bronze AS 
